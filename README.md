@@ -6,9 +6,9 @@
 **Lecturer:** Amandus Benjamin Coker  
 **Assignment Type:** Individual (15%)  
 **Title:** Mini Library Management System  
-**Student Name:** [Your Full Name]  
-**Student ID:** [Your Student ID]  
-**Date of Submission:** [Insert Date]
+**Student Name:** Abriel Elijah Conteh  
+**Student ID:** 905005069  
+**Date of Submission:** 21 October, 2025
 
 ---
 
