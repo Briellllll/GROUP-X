@@ -1,4 +1,4 @@
-# Mini Library Management System (PROG211)
+# Mini Library Management System 
 
 ## 📚 Course Information
 **Module:** Object-Oriented Programming 1 (PROG211)  
